@@ -1,7 +1,6 @@
 # Nikolai
 ## A simple 2D game engine
 ### By Matija Kuprešanin
-# =============================================
 
 # 1. Goal
 The goal of this engine is to loosely emulate the model of Gamemaker:Studio, but stripping it of redundant and/or limiting elements, with those being anything other than game objects, rooms and assets. Where GML and Gamemaker fail is the clutteredness of large projects created using them. Nikolai seeks to solve this by relying on C++ and default classes and/or namespaces to govern commonly required features such as file loading, input, collisions etc.
